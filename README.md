@@ -25,8 +25,8 @@
 
 - ⚡ Fun fact **I turn real-world problems into AI projects.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/atul pardhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atul pardhi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atul pardhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul pardhi" height="30" width="40" /></a>
 <a href="https://fb.com/atul pardhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atul pardhi" height="30" width="40" /></a>
